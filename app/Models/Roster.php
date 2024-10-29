@@ -17,6 +17,7 @@ class Roster extends Model
         'number',
         'position',
         'created_at',
+        'photo',
     ];
 
     protected static function boot()
